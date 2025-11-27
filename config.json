@@ -1,0 +1,201 @@
+{
+    "en-CA": {
+        "styles": {
+            "bg": "#0D1015",
+            "lang-select-color": "#222829",
+            "bg-light": "#0D1015",
+            "welcome-bonus-bg": "#0D1015",
+            "top-games-hover-fg": "#ffffff",
+            "main-bg": "#0f151f",
+            "text": "#ffffff",
+            "text-black": "#ffffff",
+            "table-head": "#0D1015",
+            "text-head": "#ffffff",
+            "hero-title-text": "#222829",
+            "welcome-bonus-text": "#FFD203",
+            "yellow": "#5044DC",
+            "yellow-button": "#FFD203",
+            "button-text": "#ffffff",
+            "main-button-text": "#ffffff",
+            "border-color": "#efefdc",
+            "casino-cards": "#1c273b",
+            "bonus-border-head": "#efefdc",
+            "bonus-border": "#000033",
+            "pay-back": "#deeadf",
+            "providers-back": "#1c273b",
+            "faq-label": "#1c273b",
+            "bg-footer": "#0D1015",
+            "copyright": "#e7e7d5",
+            "starColor": "#5044DC",
+            "baseFont": {
+                "value": "Roboto",
+                "isCustom": false
+            },
+            "primaryFont": {
+                "value": "Inter",
+                "isCustom": false
+            },
+            "welcomeBonusFont": {
+                "value": "Roboto",
+                "isCustom": false
+            }
+        },
+        "seo": {
+            "name": "CasaBet",
+            "title": "CasaBet Casino | Games, Bonuses, Tournaments & Instant Withdrawals",
+            "description": "CasaBet is a modern online casino offering thousands of games, generous bonuses, secure payments, and fast withdrawals. Play slots, live casino, and join tournaments with big prizes!\n",
+            "canonical": "casabet-online.com",
+            "ogImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/766",
+            "ogImageWidth": 1200,
+            "ogImageHeight": 630,
+            "twitterSite": "casabet-online.com",
+            "favicon": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/767",
+            "keywords": "casino, online casino, gambling, slots, table games"
+        },
+        "icons": {
+            "icon192": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/768"
+        },
+        "header": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/769",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "logoAlt": "CasaBet Logo"
+        },
+        "nav": {
+            "signUp": "Sign Up",
+            "playNow": "Play Now"
+        },
+        "hero": {
+            "title": "CasaBet \u2014 Online Casino with Bonuses and Fast Payouts",
+            "textDesktop": "Exclusive welcome offer of",
+            "textMobile": "Exclusive welcome bonus of",
+            "playGame": "Play game",
+            "claimBonus": "Claim Bonus",
+            "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/770",
+            "imageSizeModifier": 5,
+            "imageYModifier": -4,
+            "imageXModifier": 0,
+            "mobileImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/771",
+            "mobileImageSizeModifier": 0,
+            "mobileImageYModifier": 0,
+            "mobileImageXModifier": 0
+        },
+        "topCasino": {
+            "topCasinoButtonText": "Claim Bonus",
+            "title": "Top Casino",
+            "allCasino": "All Casino",
+            "welcomeBonusText": "Welcome bonus"
+        },
+        "bonusDetails": {
+            "title": "Bonus Details",
+            "getBonusButtonText": "Get Bonus",
+            "maximumAmountText": "Maximum amount",
+            "wagerText": "Wager",
+            "bonusCodeText": "Bonus Code",
+            "casino": "Casino",
+            "bonuses": "Bonuses",
+            "rate": "Rate",
+            "freeSpins": "Free Spins",
+            "moreInfo": "More Info",
+            "get": "Get",
+            "refresh": "Refresh"
+        },
+        "advantages": {
+            "title": "Advantages",
+            "advantagesBeforeText": "",
+            "items": [
+                "Wide selection of games from top providers",
+                "Welcome bonuses up to \u20ac2200 plus free spins",
+                "Cryptocurrency support and fast withdrawals",
+                "Cura\u00e7ao license and strong data protection",
+                "Mobile-friendly design without app download",
+                "Regular tournaments with big prize pools",
+                "Loyalty program with high cashback rewards"
+            ],
+            "advantagesAfterText": "CasaBet offers a secure and modern platform with thousands of games and generous bonuses. Fast payouts, crypto support, and mobile optimization ensure a smooth gaming experience.\n",
+            "knowMore": "Know more",
+            "appTitle": "CasaBet App",
+            "mobile": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/772",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "mobileAlt": "CasaBet App",
+            "mobileGooglePlayImageTitle": "CasaBet App",
+            "mobileIosImageTitle": "CasaBet App"
+        },
+        "games": {
+            "playNowText": "Play now",
+            "title": "Popular Games",
+            "allGames": "All Games"
+        },
+        "about": {
+            "history": {
+                "title": "About CasaBet",
+                "description1": "CasaBet focuses on big wins and generous rewards. The chance to hit million-euro jackpots and join high-prize tournaments makes it a top choice for thrill-seekers.\n",
+                "items": [
+                    "Bonuses up to \u20ac2200 for newcomers",
+                    "Jackpots exceeding \u20ac1,000,000 available",
+                    "Tournaments with prizes up to \u20ac30,000"
+                ],
+                "description2": "CasaBet is a modern online gaming platform. The casino offers a wide range of slots, table games, and live casino options. Its interface is user-friendly and optimized for all devices. Players can enjoy generous bonuses and regular promotions. Advanced security systems ensure data protection and fair play. \n",
+                "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/773",
+                "imageSizeModifier": 0,
+                "imageYModifier": 0,
+                "imageXModifier": 0,
+                "imageAlt": "History",
+                "description3": "Popular payment methods make deposits and withdrawals easy. The casino partners with top providers for high-quality games. Tournaments and loyalty programs provide extra winning opportunities. Customer support is available 24\/7 via chat and email. CasaBet combines reliability, variety, and convenience for every player."
+            }
+        },
+        "custom": {
+            "customHtml": {
+                "title": "CasaBet \u2014 A Modern World of Gaming",
+                "description": "<p>\nCasaBet is an innovative online casino designed for players who value quality, security, and variety. The platform brings together thousands of games from leading global providers, including slots, table games, and live casino experiences with real dealers. With a modern interface and mobile-friendly design, gaming is accessible anytime and anywhere.\n\n<\/p>\n<br>\n<p>\nUser convenience is a top priority. CasaBet offers easy registration, fast deposits, and reliable withdrawal methods. All transactions are secured with advanced encryption technologies, and an international license ensures fairness and transparency throughout the gaming process.\n\n<\/p>\n<br>\n<p>\nPlayers appreciate CasaBet for its generous bonuses and regular promotions that make the experience even more exciting. Tournaments with large prize pools and a rewarding loyalty program provide extra opportunities to win. From classic slots to dynamic live dealer games, there is something for everyone.\n\n<\/p>\n<br>\n<p>\nCasaBet is more than just a casino \u2014 it\u2019s a complete gaming ecosystem where reliability, comfort, and thrill come together. The platform focuses on long-term relationships with players, offering high-level service and 24\/7 support. It\u2019s a place where excitement meets security and cutting-edge technology.\n\n<\/p>\n<br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nPayment Methods and Currencies at CasaBet\n<\/h3>\n<p>\nCasaBet provides players with a wide range of convenient and secure payment options. The platform supports both traditional bank cards and modern e-wallets, making deposits and withdrawals simple and hassle-free. Among the available methods are Visa and MasterCard, as well as popular services like Skrill and Neteller.\n\n<\/p>\n<br>\n<p>\nSpecial attention is given to cryptocurrencies, which are increasingly popular among players. CasaBet accepts Bitcoin, Ethereum, Tether, and other digital assets, ensuring fast transactions and a high level of privacy. This is especially appealing to those who value anonymity and speed.\n\n<\/p>\n<br>\n<p>\nThe casino also offers flexible currency options, allowing users to choose from euros, dollars, and other major international currencies. This approach helps avoid unnecessary conversions and provides a smooth experience for players worldwide.\n\n<\/p>\n<br>\n<p>\nCasaBet combines reliability with a modern payment system, offering secure transactions and a wide choice of currencies. This makes the platform convenient for all types of users, regardless of their preferences or location.\n\n<\/p>\n<br>\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nCasino CasaBet Rules and Restrictions\n<\/h3>\n\n<p>\nVisiting CasaBet online casino requires compliance with specific rules designed to ensure safety and fairness for all players. The primary condition is that registration is allowed only for adults, in line with international gambling standards. Each player must provide accurate personal information to complete the verification process.\n\n<\/p>\n<br>\n<p>\nUsing false data or creating multiple accounts is strictly prohibited, as it violates fair play principles. The use of third-party software that affects game outcomes is also forbidden. All financial transactions must be carried out through official payment methods available on the platform.\n\n<\/p>\n<br>\n<p>\nCasaBet promotes responsible gaming and encourages players to set deposit and time limits to avoid gambling-related issues. Any violation of these rules may result in account suspension and forfeiture of winnings.\n\n<\/p>\n<br>\n<p>\nThe casino reserves the right to verify user identity and sources of funds to prevent fraud. All activities on the site must comply with the laws of the player\u2019s country of residence.\n\n<\/p>\n<br>\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">Key conditions and restrictions<\/h4>\n\n <ul>\n            <li>\u2022 \nAge requirement: access only for players over 18.\n\n<\/li>\n            <li>\u2022 \nAccurate information: registration with real personal details.\n\n<\/li>\n            <li>\u2022 \nSingle account: multiple accounts are strictly prohibited.\n\n<\/li>\n            <li>\u2022 \nFair play: no bots or external software allowed.\n\n<\/li>\n\t    <li>\u2022 \nResponsible gaming: players should set betting limits.\n<\/li>\n\t    <li>\u2022 \nFinancial transparency: transactions only via official payment methods.\n\n<\/li>\n\t    <li>\u2022 \nLegal compliance: actions must follow local laws.\n\n\n<\/li>\n        <\/ul><br>\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nLicense and Data Protection at CasaBet\n<\/h3>\n\n<p>\nCasaBet operates under an international Cura\u00e7ao eGaming license, ensuring legality and transparency in all operations. This license guarantees compliance with fair play standards and protection of player interests. The casino undergoes regular audits to meet regulatory requirements.\n\n<\/p>\n<br>\n<p>\nAdvanced SSL encryption is used to safeguard player data, securing both personal information and financial transactions. All payments are processed through protected channels, eliminating the risk of data leaks. Additionally, the platform employs multi-layered security systems, including fraud prevention and suspicious activity monitoring.\n\n<\/p>\n<br>\n<p>\nCasaBet\u2019s privacy policy strictly governs the use of personal data. User information is never shared with third parties without consent, and data storage complies with international GDPR standards. This ensures a high level of trust and transparency.\n\n<\/p>\n<br>\n<p>\nCasaBet focuses on creating a secure gaming environment where players can feel confident about data protection and fair gameplay. Modern technologies and strict privacy rules provide a solid foundation for a safe and enjoyable experience.\n\n<\/p>\n<br>\n\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nCasaBet Customer Support \u2014 Always Available\n<\/h3>\n\n<p>\nCasaBet places great emphasis on delivering high-quality customer service through multiple convenient communication channels. Players can reach support via live chat, email, or phone, ensuring flexibility and ease of access. The live chat is available 24\/7, providing quick responses to any inquiries.\n\n<\/p>\n<br>\n<p>\nAverage response time in chat is just a few minutes, while email replies may take a few hours depending on the complexity of the issue. Phone support is available during business hours for more detailed assistance.\n\n<\/p>\n<br>\n<p>\nThe service quality is rated as excellent, with staff offering prompt solutions and clear guidance. Support is available in multiple languages, including English, German, French, and others, making the platform accessible to players worldwide.\n\n<\/p>\n<br>\n<p>\nCasaBet aims to create a comfortable communication environment, ensuring professional assistance and fast resolution of any concerns.\n\n<\/p>\n<br>\n\n\n\n<div\n lang=\"en\"\n     style=\"\n       -webkit-columns: 320px 2;\n       -moz-columns: 320px 2;\n       columns: 320px 2;\n\n        -webkit-column-gap: 1.2em;\n       -moz-column-gap: 1.2em;\n       column-gap: 1.2em;\n \n       hyphens: auto;\n\">\n\n\n   <!-- \u041b\u0435\u0432\u0430\u044f \u043a\u043e\u043b\u043e\u043d\u043a\u0430 -->\n    <div style=\"break-inside: avoid; -webkit-column-break-inside: avoid; -moz-column-break-inside: avoid;\">\n        <h4 style = \"font-weight: bold; font-size: 24px;\">Communication channels\n\n\n<\/h4>\n            <ul>\n            <li>\u2022 \nLive chat \u2014 24\/7, instant replies\n\n<\/li>\n            <li>\u2022 \nEmail \u2014 for detailed inquiries\n\n<\/li>\n            <li>\u2022 \nPhone \u2014 business hours consultations\n<\/li>\n\n  \n        <\/ul>\n    <\/div>\n\n    <!-- \u041f\u0440\u0430\u0432\u0430\u044f \u043a\u043e\u043b\u043e\u043d\u043a\u0430 -->\n    <div style=\"break-inside: avoid; -webkit-column-break-inside: avoid; -moz-column-break-inside: avoid;\">\n        <h4 style = \"font-weight: bold; font-size: 24px;\"> Service highlights\n<\/h4>\n        <ul>\n            <li>\u2022 \nHigh-quality assistance\n\n<\/li>\n            <li>\u2022 \nMultilingual support\n\n<\/li>\n       <li>\u2022 \nMinimal waiting time\n<\/li>\n  \n  \n        <\/ul><br>\n      \n\n    <\/div>\n<\/div>\n<br>\n\n\n\n"
+            }
+        },
+        "softwareProviders": {
+            "title": "Software Providers"
+        },
+        "custom_2": {
+            "customHtml_2": {
+                "title": "Entertainment and Gaming at  CasaBet",
+                "description": "\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nCasaBet Loyalty Program \u2014 More Rewards for Regular Players\n<\/h3>\n\n<p>\nThe CasaBet loyalty program is designed to reward active players and provide extra opportunities to win. It features multiple levels, each offering exclusive bonuses and privileges. Participation begins automatically after registration, and progression depends on activity and betting volume.\n\n<\/p>\n<br>\n<p>\nKey benefits include personalized offers, higher withdrawal limits, access to exclusive tournaments, and increased cashback. The higher the level, the more bonuses and special conditions players receive. The program focuses on long-term engagement, offering VIP treatment and tailored promotions for loyal customers.\n\n<\/p>\n<br>\n<p>\nCasaBet ensures transparency: all bonuses are credited automatically, and progress can be tracked in the user account. This makes participation simple and convenient for everyone.\n\n<\/p>\n<br>\n\n\n\n<div\n lang=\"en\"\n     style=\"\n       -webkit-columns: 320px 2;\n       -moz-columns: 320px 2;\n       columns: 320px 2;\n\n        -webkit-column-gap: 1.2em;\n       -moz-column-gap: 1.2em;\n       column-gap: 1.2em;\n \n       hyphens: auto;\n\">\n\n\n   <!-- \u041b\u0435\u0432\u0430\u044f \u043a\u043e\u043b\u043e\u043d\u043a\u0430 -->\n    <div style=\"break-inside: avoid; -webkit-column-break-inside: avoid; -moz-column-break-inside: avoid;\">\n        <h4 style = \"font-weight: bold; font-size: 24px;\">Registration requirements\n<\/h4>\n            <ul>\n            <li>\u2022 \nSign up on CasaBet website\n\n<\/li>\n            <li>\u2022 \nComplete identity verification (KYC)\n\n<\/li>\n            <li>\u2022 \nPlay actively with real money\n<\/li>\n        <\/ul><br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">Program levels and how to reach them<\/h4>\n\n <ul>\n            <li>\u2022 \nBasic level: available immediately after registration\n\n<\/li>\n            <li>\u2022 \nSilver: achieved after reaching a set betting volume\n\n<\/li>\n            <li>\u2022 \nGold: for highly active players with large deposits\n\n<\/li>\n            <li>\u2022 \nPlatinum: reserved for VIP clients with maximum activity\n\n\n<\/li>\n\t   \n        <\/ul><br>\n\n\n    <\/div>\n\n    <!-- \u041f\u0440\u0430\u0432\u0430\u044f \u043a\u043e\u043b\u043e\u043d\u043a\u0430 -->\n    <div style=\"break-inside: avoid; -webkit-column-break-inside: avoid; -moz-column-break-inside: avoid;\">\n        <h4 style = \"font-weight: bold; font-size: 24px;\"> Available bonuses\n<\/h4>\n        <ul>\n            <li>\u2022 \nCashback up to 35% on losses\n\n<\/li>\n            <li>\u2022 \nWeekly free spins on popular slots\n\n<\/li>\n       <li>\u2022 \nPersonalized deposit bonuses\n\n<\/li>\n            <li>\u2022 \nExclusive tournaments with big prizes\n\n<\/li>\n            <li>\u2022 \nHigher withdrawal limits\n<\/li>\n  \n  \n        <\/ul><br>\n      \n\n    <\/div>\n<\/div>\n<br>\n\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nCasaBet Bonuses and Special Offers \u2014 Maximum Winning Opportunities\n<\/h3>\n\n<p>\nCasaBet provides players with a wide range of bonuses and special offers that make gaming more exciting and rewarding. Beyond the loyalty program, the platform regularly hosts promotions, tournaments, and seasonal events with substantial prize pools. These offers cater to both new and experienced players, giving everyone a chance to win extra rewards.\n\n<\/p>\n<br>\n<p>\nWelcome bonuses are a highlight, allowing players to start with an enhanced balance. Regular promotions featuring free spins on popular slots offer risk-free opportunities to try new games. Slot races and tournaments with fixed prize pools create a competitive and thrilling atmosphere.\n\n<\/p>\n<br>\n<p>\nSeasonal events tied to holidays or major sports occasions include exclusive bonuses and themed games. Additionally, CasaBet offers jackpots that can reach impressive amounts, giving players the chance to hit life-changing wins.\n\n<\/p>\n<br>\n<p>\nAll bonuses are credited automatically upon meeting the promotion requirements, and detailed information is available in the \u201cPromo\u201d section of the site. This makes participation simple and transparent for every user.\n\n<\/p>\n<br>\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">Main bonuses and offers<\/h4>\n\n <ul>\n            <li>\u2022 \nWelcome bonus: up to \u20ac2200 + 350 free spins on first deposits\n\n<\/li>\n            <li>\u2022 \nWeekly promotions: free spins on top slots, deposit bonuses\n\n<\/li>\n            <li>\u2022 \nTournaments: prize pools up to \u20ac30,000, rewards for activity\n\n<\/li>\n            <li>\u2022 \nSeasonal events: themed bonuses for holidays and sports events\n\n<\/li>\n\t    <li>\u2022 \nJackpots: winnings exceeding \u20ac1,000,000 on progressive slots\n\n<\/li>\n\t    <li>\u2022 \nCashback offers: up to 20% return on losses outside VIP program\n\n<\/li>\n\t    <li>\u2022 \nSlot races: extra prizes for maximum spins\n\n<\/li>\n        <\/ul><br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nPopular Games at CasaBet \u2014 Top Entertainment for Players\n<\/h3>\n\n<p>\nCasaBet offers a massive selection of games to suit every player\u2019s taste. The core of its collection includes video slots from leading providers such as Pragmatic Play, Play\u2019n GO, Hacksaw Gaming, and Yggdrasil. These games feature stunning graphics, engaging themes, and exciting bonus mechanics.\n\n<\/p>\n<br>\n<p>\nProgressive jackpot slots are among the most popular, giving players the chance to win life-changing prizes. Games with Megaways mechanics and multipliers deliver fast-paced and thrilling gameplay. For fans of classic casino style, fruit machines and retro slots are also available.\n\n<\/p>\n<br>\n<p>\nBeyond slots, CasaBet provides table games and live casino sessions with real dealers. Players can enjoy roulette, blackjack, baccarat, and poker in real time. Titles from Evolution and Pragmatic Live guarantee high-quality streaming and an authentic casino atmosphere.\n\n<\/p>\n<br>\n<p>\nFor those seeking something different, mini-games, instant lotteries, and game shows like Crazy Time and Sweet Bonanza CandyLand are available. All games are mobile-optimized, allowing players to enjoy them anytime, anywhere.\n\n<\/p>\n<br>\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">Top CasaBet Games<\/h4>\n\n <ul>\n            <li>\u2022 \nGates of Olympus (Pragmatic Play): multiplier mechanics and free spins for big wins.\n\n<\/li>\n            <li>\u2022 \nSweet Bonanza (Pragmatic Play): colorful slot with cascading wins and multipliers.\n\n<\/li>\n            <li>\u2022 \nThe Dog House Megaways (Pragmatic Play): dynamic slot with sticky wilds and Megaways.\n\n<\/li>\n            <li>\u2022 \nBook of Dead (Play\u2019n GO): iconic slot with expanding symbols and bonus rounds.\n\n<\/li>\n\t    <li>\u2022 \nWanted Dead or a Wild (Hacksaw Gaming): high-volatility slot with huge payout potential.\n\n<\/li>\n\t    <li>\u2022 \nCrazy Time (Evolution): popular game show with a money wheel and bonus rounds.\n\n<\/li>\n\t    <li>\u2022 \nMega Roulette (Pragmatic Live): classic roulette with boosted multipliers.\n\n\n<\/li>\n        <\/ul><br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nMinimum and Maximum Bets at CasaBet\n<\/h3>\n\n<p> \nCasaBet offers flexible betting limits suitable for both beginners and high rollers. Minimum bets allow players to start with a small budget, while maximum bets provide opportunities for big wins. Limits vary depending on the game type: slots, table games, or live casino.\n\n<\/p><br>\n<p> \nBelow is a table showing typical bet ranges for popular game categories at CasaBet. This helps players plan their gaming strategy and manage their bankroll effectively.\n\n<\/p><br>\n\n<table style=\"width:100%; border-collapse:collapse; margin-top:16px;\">\n            <thead>\n                <tr style=\"background:#FFD203; color:#fff;\">\n                    <th style=\"border:2px solid #ccc; padding:8px; text-align:left;\">Game Type<\/th>\n                    <th style=\"border:2px solid #ccc; padding:8px; text-align:center;\">Minimum Bet<\/th>\n                    <th style=\"border:2px solid #ccc; padding:8px; text-align:center;\">Maximum Bet<\/th>\n                <\/tr>\n            <\/thead>\n            <tbody>\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Video Slots<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">\u20ac0.10 <\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">\u20ac100 <\/td>\n                <\/tr>\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Table Games<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">\u20ac1<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">\u20ac500<\/td>\n                <\/tr>\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Roulette (Live)<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">\u20ac0.50 <\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">\u20ac2,000<\/td>\n                <\/tr>\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Blackjack (Live)<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">\u20ac5 <\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\"> \u20ac5,000<\/td>\n                <\/tr>\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Baccarat (Live)<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">\u20ac10<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">\u20ac10,000<\/td>\n                <\/tr>\n        <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Jackpot Slots<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">\u20ac0.20<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">\u20ac50<\/td>\n                <\/tr>\n            <\/tbody>\n        <\/table><br>\n\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nEvents and Entertainment at CasaBet \u2014 Thrill and Show at Its Best\n<\/h3>\n\n<p>\nCasaBet is not just an online gaming platform but a hub for exciting events and special shows. The casino aims to create a festive atmosphere by offering unique entertainment beyond standard slots and table games.\n\n<\/p>\n<br>\n<p>\nOne of the highlights is weekly tournaments, attracting thousands of participants. These events allow players to compete for big prize pools, adding a competitive edge and extra excitement. Tournaments cover slots, table games, and even live casino, making them accessible to all types of players.\n\n<\/p>\n<br>\n<p>\nAdditionally, CasaBet hosts seasonal events tied to holidays and major sports occasions. These promotions include exclusive bonuses, themed games, and special prizes \u2014 for example, festive tournaments during New Year or campaigns for global football championships.\n\n<\/p>\n<br>\n<p>\nA standout feature is the game shows, which bring the thrill of interactive entertainment. Titles like Crazy Time or Sweet Bonanza CandyLand offer not only winnings but also an engaging experience with a show-like atmosphere. Perfect for players seeking vibrant emotions and unique formats.\n\n<\/p>\n<br>\n<p>\nCasaBet focuses on variety and quality, turning gaming into a true celebration. From tournaments to themed promotions and game shows, the platform transforms excitement into unforgettable events.\n\n<\/p>\n<br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">All CasaBet entertainment and events<\/h4>\n\n <ul>\n            <li>\u2022 \nWeekly tournaments: slot and table game competitions with prize pools up to \u20ac30,000.\n\n<\/li>\n            <li>\u2022 \nSeasonal promotions: bonuses and free spins for holidays and sports events.\n\n<\/li>\n            <li>\u2022 \nGame shows: Crazy Time, Monopoly Live, Sweet Bonanza CandyLand \u2014 interactive formats with big wins.\n\n<\/li>\n            <li>\u2022 \nSlot races: speed-based competitions with extra prizes.\n\n<\/li>\n\t    <li>\u2022 \nExclusive live tournaments: real dealer games with VIP rewards.\n\n<\/li>\n\t    <li>\u2022 \nSpecial jackpot events: progressive jackpot draws exceeding \u20ac1,000,000.\n\n\n<\/li>\n        <\/ul><br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nWithdrawal Methods and Payout Speed at CasaBet\n<\/h3>\n\n<p>\nCasaBet offers convenient and secure withdrawal options, allowing players to receive their winnings quickly. The platform supports traditional bank cards, e-wallets, and cryptocurrencies, providing flexibility for all types of users.\n\n<\/p>\n<br>\n<p>\nProcessing times vary by method. E-wallets like Skrill and Neteller are usually processed within 24 hours. Bank transfers take 3 to 7 business days, while cryptocurrency transactions are completed within minutes to a couple of hours, making them the fastest option.\n\n<\/p>\n<br>\n<p>\nCasaBet sets withdrawal limits to ensure security and control. The minimum withdrawal amount is around \u20ac20, while maximum limits can reach \u20ac10,000 per day and \u20ac50,000 per month, catering to both casual players and high rollers.\n\n<\/p>\n<br>\n<p>\nAll transactions are secured with SSL encryption, and identity verification (KYC) is required before the first withdrawal. This guarantees safety and prevents fraud.\n\n<\/p>\n<br>\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">Withdrawal methods<\/h4>\n\n <ul>\n            <li>\u2022 \nBank cards (Visa, MasterCard): processing time 3\u20137 days.\n\n<\/li>\n            <li>\u2022 \nE-wallets (Skrill, Neteller, MiFinity): up to 24 hours.\n\n<\/li>\n            <li>\u2022 \nCryptocurrencies (BTC, ETH, USDT): 10 minutes to 2 hours.\n\n\n<\/li>\n\n        <\/ul><br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">Processing times<\/h4>\n\n <ul>\n            <li>\u2022 \nE-wallet \u2014 up to 24 hours.\n\n<\/li>\n            <li>\u2022 \nBank transfer \u2014 3\u20137 business days.\n\n<\/li>\n            <li>\u2022 \nCrypto \u2014 almost instant.\n\n\n<\/li>\n\n        <\/ul><br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">Withdrawal limits<\/h4>\n\n <ul>\n            <li>\u2022 \nMinimum \u2014 \u20ac20.\n\n<\/li>\n            <li>\u2022 \nMaximum \u2014 \u20ac10,000 per day, \u20ac50,000 per month.\n\n\n<\/li>\n    \n        <\/ul><br>\n"
+            }
+        },
+        "faq": {
+            "title": "Frequently Asked Questions",
+            "items": [
+                {
+                    "title": "Can I play for free?",
+                    "answer": "Yes, most slots offer demo mode without real money risk.\n"
+                },
+                {
+                    "title": "Can I use a VPN to access?",
+                    "answer": "VPN use is not prohibited, but local laws must be respected.\n"
+                },
+                {
+                    "title": "Can I cancel a withdrawal request?",
+                    "answer": "Yes, if the request hasn\u2019t been processed yet, you can cancel it in your account.\n"
+                },
+                {
+                    "title": "Are there country restrictions?",
+                    "answer": "Yes, access is restricted in certain jurisdictions \u2014 see the site\u2019s terms.\n"
+                }
+            ]
+        },
+        "footer": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/774",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "copyright": "CasaBet"
+        }
+    },
+    "langs": [
+        {
+            "code": "en-CA",
+            "name": "\u0410\u043d\u0433\u043b\u0438\u0439\u0441\u043a\u0438\u0439",
+            "isDefault": true
+        }
+    ]
+}
